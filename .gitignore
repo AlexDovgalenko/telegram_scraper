@@ -131,3 +131,6 @@ dmypy.json
 #Project data files
 parsed_data/
 csv_output/
+
+#Authentication data
+auth/athentication.py
